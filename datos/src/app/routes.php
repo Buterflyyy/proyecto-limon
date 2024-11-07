@@ -6,6 +6,7 @@ use Slim\Routing\RouteCollectorProxy;
 /**ESTE CODIGO NOS SERVIRA DE GUIA MAS SIN ENVARGO EVENTUALMENETE SE BORRARA
 // require __DIR__ . '/../controllers/Cliente.php'
 // Recurso Cliente
+me cago en la putaaaaaa
 $app->group('/api',function(RouteCollectorProxy $api){
     $api->group('/cliente',function(RouteCollectorProxy $cliente){
         $cliente->post('', Cliente::class . ':create'); //Crea un cliente
