@@ -6,7 +6,7 @@ use Slim\Routing\RouteCollectorProxy;
 /**ESTE CODIGO NOS SERVIRA DE GUIA MAS SIN ENVARGO EVENTUALMENETE SE BORRARA
 // require __DIR__ . '/../controllers/Cliente.php'
 // Recurso Cliente
-me cago en la putaaaaaa
+me cago en la putaaaaaasss
 
 me cago en la puta 2222
 la ultima xfa Dios
