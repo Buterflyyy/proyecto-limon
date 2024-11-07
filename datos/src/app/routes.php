@@ -7,6 +7,8 @@ use Slim\Routing\RouteCollectorProxy;
 // require __DIR__ . '/../controllers/Cliente.php'
 // Recurso Cliente
 me cago en la putaaaaaa
+
+me cago en la puta 2222
 $app->group('/api',function(RouteCollectorProxy $api){
     $api->group('/cliente',function(RouteCollectorProxy $cliente){
         $cliente->post('', Cliente::class . ':create'); //Crea un cliente
