@@ -8,8 +8,8 @@ use Slim\Routing\RouteCollectorProxy;
 // Recurso Cliente
 me cago en la putaaaaaasss
 
-me cago en la puta 2222
-hola
+no me cago en la puta 2222
+hol<a
 la ultima xfa Dioskkkk
 
 $app->group('/api',function(RouteCollectorProxy $api){
