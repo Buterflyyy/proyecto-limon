@@ -9,6 +9,7 @@ use Slim\Routing\RouteCollectorProxy;
 me cago en la putaaaaaa
 
 me cago en la puta 2222
+la ultima xfa Dios
 $app->group('/api',function(RouteCollectorProxy $api){
     $api->group('/cliente',function(RouteCollectorProxy $cliente){
         $cliente->post('', Cliente::class . ':create'); //Crea un cliente
