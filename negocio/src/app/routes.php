@@ -3,7 +3,7 @@ namespace App\controllers;
 use Slim\Routing\RouteCollectorProxy;
 
 /* Hola Prueba ;v
-/*fuckarroooonnnnnn
+/*fuckarron supervisado :P
 /* require __DIR__ . '/../controllers/Cliente.php';
 $app->group('/api',function(RouteCollectorProxy $api){
     $api->group('/cliente',function(RouteCollectorProxy $cliente){
